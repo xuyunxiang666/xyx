@@ -1,0 +1,38 @@
+<TABLE border="1">border用来设置表格边框尺寸大小
+<TR>
+<TD>       TD定义列
+</TD>      TR定义行
+</TR>      TABLE定义表格
+</TABLE>
+up 上 down 下 left 左 right 右
+
+<td colspan="3" rowspan="3"></td> colspan="n"属性表示跨大小列
+                                  rowspan="n"属性表示跨大小行
+width 表格的宽度
+height 表格的高度
+border 表格边框尺寸大小
+bordercolor 表格边框颜色
+background  表格的背景图片
+bgcolor 表格、行、列的背景色
+align="center" 表格、行、列的对齐方式
+border 边框的厚度
+cellpadding 单元格填充
+cellspacing 单元格间距
+python
+
+java配置环境变量
+1.安装
+2.C:\Program Files\Java\jre1.8.0_112
+3.到环境变量下新建%JAVA_HOME%
+4.path下%JAVA_HOME%/bin
+
+
+
+
+
+
+
+
+
+
+
